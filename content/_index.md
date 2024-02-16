@@ -5,6 +5,8 @@ toc: false
 
 This is the landing page.
 
+Let's see how easy it is to deploy on netlify.
+
 ## Explore
 
 {{< cards >}}
