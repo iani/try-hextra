@@ -7,6 +7,10 @@ This is the landing page.
 
 Let's see how easy it is to deploy on netlify.
 
+No need to export.  Just push. 
+
+Pushing is enough!
+
 ## Explore
 
 {{< cards >}}
